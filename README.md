@@ -40,4 +40,3 @@ adminMain() - For accessing admin's functionalities which are :
     -> addToInventory() - for adding items to stock
     -> viewOrders() - for viewing an overview of all the item sold
     -> viewStatistics() - graphical representation of sales per item
-		- 
